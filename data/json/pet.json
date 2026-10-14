@@ -1,0 +1,16 @@
+{
+  "id": 294840101,
+  "category": {
+    "id": 1,
+    "name": "cachorro"
+  },
+  "name": "Luli",
+  "photoUrls": [],
+  "tags": [
+    {
+      "id": 1,
+      "name": "vacinado"
+    }
+  ],
+  "status": "available"
+}

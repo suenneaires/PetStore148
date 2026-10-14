@@ -1,0 +1,3 @@
+id,categoryId,categoryName,name,tags,status
+294840102,2,gato,Garfield,1;vacinado:9;vermifugado,available
+294840103,3,peixe,Nemo,2;pesado:9;vermifugado,sold
